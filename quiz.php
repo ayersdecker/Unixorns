@@ -1,28 +1,26 @@
 <?php
+ var $answer1a = value2;
+ var $answer1b = value3;
+ var $answer1c = value4;
+ var $answer1d = value5;
+ ?>
+
 <Aside>
     <h1>Quiz</h1>
     <p>What is ?</p>
     <form action="quiz.php" method="post">
-        <input type="radio" name="answer" value="1">
-        <label>A. Blank A</label>
+        <input type="radio" name="answer" value="a">
+        <label>$answer1a</label>
         <br>
-        <input type="radio" name="answer" value="2">
-        <label>B. A Blank B</label>
+        <input type="radio" name="answer" value="b">
+        <label>$answer1b</label>
         <br>
-        <input type="radio" name="answer" value="3">
-        <label>C. A Blank C</label>
+        <input type="radio" name="answer" value="c">
+        <label>$answer1c</label>
         <br>
-        <input type="radio" name="answer" value="4">
-        <label>D. A Blank D</label>
+        <input type="radio" name="answer" value="d">
+        <label>$answer1d</label>
         <br>
         <input type="submit" value="Submit">
 
-
-
-
-
 </Aside>
-
-
-
-?>
