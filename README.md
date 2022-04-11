@@ -3,6 +3,8 @@ ISTE 240.2  Group 1 (Unixorns) Project Repo (HTML/CSS/JS)
 
 >Site URL
 
+http://solace.ist.rit.edu/~iste240t26/home_index.html
+
 >Introduction
 
 The Unixorns website is being created with efforts in satisfying a need to better educate those learning Unix based code. Our group divided development efforts into (4) roles in order to accomplish the task at hand. The direction our site leads towards is a self-initiated interest in learning Unix, with a fresh environment and tracking system to help boost productive learning. We approached the issue of stagnated learning when designing our site, and how to better engage user’s attention with the subject. This document will highlight several areas of design content creation along with reference to our group vision for the site.
